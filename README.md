@@ -73,6 +73,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 Happy coding!
-```
 
-Let me know if you'd like me to make adjustments or help you upload this!
