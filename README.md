@@ -1,15 +1,8 @@
-I'll draft a GitHub README file for your first ML model training project. First, let me quickly analyze the contents of your uploaded Jupyter Notebook to tailor the README accordingly.
-
-Based on your notebook contents, here’s a README file tailored for your first ML model training project:
-
 ### Project Summary:
 The project involves training and evaluating two regression models (Linear Regression and Random Forest) to predict solubility (`logS`) based on molecular descriptors.
 
 ---
 
-### Sample README:
-
-```markdown
 # Machine Learning Model: Solubility Prediction
 
 This repository contains the code for training and evaluating machine learning models to predict solubility (`logS`) of molecules using molecular descriptor data.
@@ -44,7 +37,6 @@ The dataset is sourced from [Delaney's solubility dataset](https://raw.githubuse
 Install the required Python libraries:
 ```bash
 pip install pandas scikit-learn matplotlib
-```
 
 ## How to Run
 1. Clone the repository:
