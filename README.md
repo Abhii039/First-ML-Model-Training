@@ -41,11 +41,11 @@ pip install pandas scikit-learn matplotlib
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhii039/ml-solubility-prediction.git
+   git clone https://github.com/Abhii039/First-ML-Model-Training.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd ml-solubility-prediction
+   cd First-ML-Model-Training
    ```
 3. Open the Jupyter Notebook:
    ```bash
