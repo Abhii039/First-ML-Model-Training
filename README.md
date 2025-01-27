@@ -53,13 +53,6 @@ pip install pandas scikit-learn matplotlib
    ```
 4. Execute the cells to load data, train models, and visualize results.
 
-## Results
-The project compares two regression models:
-| Model             | Training MSE | Training R² | Test MSE | Test R² |
-|-------------------|--------------|-------------|----------|---------|
-| Linear Regression | ...          | ...         | ...      | ...     |
-| Random Forest     | ...          | ...         | ...      | ...     |
-
 ## Visualizations
 Scatter plots showcasing predicted vs. actual values are generated to visualize model performance.
 
